@@ -29,4 +29,4 @@
 - Плюснин Денис — Кодер
 
 ## Источники
-- Grabcad
+- [Grabcad](https://grabcad.com/library/geodetic-robot-spider-1) 
