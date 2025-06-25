@@ -9,6 +9,7 @@
 ## Технологии
 - Fusion 3D
 - GitHub
+- ULtiMaker Cura
 
 
 ## Команда проекта
