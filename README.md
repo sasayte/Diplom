@@ -1,7 +1,6 @@
 # Маркшейдерский робот "Геомакс"
 ### Цель:
 Создать робота для удаленного зондирования и создания трехмерной модели забоя в целях повышения безопасности и ускорения процесса
-- Ссылка на [презентацию](https://vk.com/doc299339253_689870153?hash=ZpzwGJV7UpHhsNgfF7ghE4hzkYUrYtQU6NWGpvMG2hX&dl=7lEbzK5liP84RT9meeRfrzN2SuZHu9r7GwkCsGB50Rg&from_module=vkmsg_desktop)
 ## Содержание
 - [Технологии](#технологии)
 - [Команда проекта](#команда-проекта)
@@ -21,5 +20,6 @@
 - Кирьян Анна — Менеджер-электрик
 - Плюснин Денис — Кодер
 
-## Источники
-- [Grabcad](https://grabcad.com/library/geodetic-robot-spider-1) 
+## Ссылки
+- [Grabcad](https://grabcad.com/library/geodetic-robot-spider-1)
+- [Презентация](https://vk.com/doc299339253_689870153?hash=ZpzwGJV7UpHhsNgfF7ghE4hzkYUrYtQU6NWGpvMG2hX&dl=7lEbzK5liP84RT9meeRfrzN2SuZHu9r7GwkCsGB50Rg&from_module=vkmsg_desktop)
