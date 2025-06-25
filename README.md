@@ -1,7 +1,7 @@
 # Маркшейдерский робот "Геомакс"
 ### Цель:
 Создать робота для удаленного зондирования и создания трехмерной модели забоя в целях повышения безопасности и ускорения процесса
-
+- Ссылка на [презентацию](https://vk.com/doc299339253_689870153?hash=ZpzwGJV7UpHhsNgfF7ghE4hzkYUrYtQU6NWGpvMG2hX&dl=7lEbzK5liP84RT9meeRfrzN2SuZHu9r7GwkCsGB50Rg&from_module=vkmsg_desktop)
 ## Содержание
 - [Технологии](#технологии)
 - [Команда проекта](#команда-проекта)
@@ -10,7 +10,6 @@
 ## Технологии
 - Fusion 3D
 - GitHub
-- [Презентация](https://vk.com/doc299339253_689870153?hash=ZpzwGJV7UpHhsNgfF7ghE4hzkYUrYtQU6NWGpvMG2hX&dl=7lEbzK5liP84RT9meeRfrzN2SuZHu9r7GwkCsGB50Rg&from_module=vkmsg_desktop)
 
 
 ## Команда проекта
