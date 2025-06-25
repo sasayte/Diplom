@@ -10,6 +10,7 @@
 ## Технологии
 - Fusion 3D
 - GitHub
+- [Презентация](https://vk.com/doc299339253_689870153?hash=ZpzwGJV7UpHhsNgfF7ghE4hzkYUrYtQU6NWGpvMG2hX&dl=7lEbzK5liP84RT9meeRfrzN2SuZHu9r7GwkCsGB50Rg&from_module=vkmsg_desktop)
 
 
 ## Команда проекта
